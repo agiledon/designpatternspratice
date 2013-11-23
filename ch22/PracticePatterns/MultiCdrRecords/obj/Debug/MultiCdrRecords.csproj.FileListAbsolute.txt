@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch22\PracticePatterns\MultiCdrRecords\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch22\PracticePatterns\MultiCdrRecords\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch22\PracticePatterns\MultiCdrRecords\obj\Debug\ResolveAssemblyReference.cache
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch22\PracticePatterns\MultiCdrRecords\obj\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch22\PracticePatterns\MultiCdrRecords\obj\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.pdb

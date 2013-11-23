@@ -1,0 +1,5 @@
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShow\bin\Debug\DonOfDesign.PracticeProxy.ControlsShow.dll
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShow\bin\Debug\DonOfDesign.PracticeProxy.ControlsShow.pdb
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShow\obj\Debug\ResolveAssemblyReference.cache
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShow\obj\Debug\DonOfDesign.PracticeProxy.ControlsShow.dll
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShow\obj\Debug\DonOfDesign.PracticeProxy.ControlsShow.pdb

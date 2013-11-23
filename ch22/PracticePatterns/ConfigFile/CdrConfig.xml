@@ -1,0 +1,14 @@
+<XmlProducts>
+  <CM>
+    <CalledNumber>11</CalledNumber>
+    <CallingNumber>11</CallingNumber>
+    <CallTime>8</CallTime>
+    <Separator>;</Separator>
+  </CM>
+  <CU>
+    <CallingNumber>12</CallingNumber>
+    <CalledNumber>12</CalledNumber>
+    <CallTime>8</CallTime>
+    <Separator>,</Separator>
+  </CU>
+</XmlProducts>

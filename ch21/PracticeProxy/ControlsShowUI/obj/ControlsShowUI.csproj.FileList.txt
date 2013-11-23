@@ -1,0 +1,10 @@
+bin\Debug\ControlsShowUI.exe
+bin\Debug\ControlsShowUI.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.PracticeProxy.ControlsShowUI.Properties.Resources.resources
+obj\Debug\ControlsShowUI.csproj.GenerateResource.Cache
+obj\Debug\ControlsShowUI.exe
+obj\Debug\ControlsShowUI.pdb
+obj\Debug\DonOfDesign.PracticeProxy.ControlsShowUI.OperatorForm.resources
+bin\Debug\DonOfDesign.PracticeProxy.ControlsShow.dll
+bin\Debug\DonOfDesign.PracticeProxy.ControlsShow.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.ObserverPattern.ObserverApp.Properties.Resources.resources
+obj\Debug\ObserverApp.csproj.GenerateResource.Cache
+bin\Debug\ObserverApp.exe
+bin\Debug\ObserverApp.pdb
+obj\Debug\ObserverApp.exe
+obj\Debug\ObserverApp.pdb
+obj\Debug\DonOfDesign.ObserverPattern.ObserverApp.MainForm.resources
+obj\Debug\DonOfDesign.ObserverPattern.ObserverApp.ManufactureForm.resources
+obj\Debug\DonOfDesign.ObserverPattern.ObserverApp.OperatorForm.resources

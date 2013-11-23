@@ -1,0 +1,5 @@
+bin\Debug\DonOfDesign.AbstractFactory.ReportComponent.dll
+bin\Debug\DonOfDesign.AbstractFactory.ReportComponent.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.AbstractFactory.ReportComponent.dll
+obj\Debug\DonOfDesign.AbstractFactory.ReportComponent.pdb

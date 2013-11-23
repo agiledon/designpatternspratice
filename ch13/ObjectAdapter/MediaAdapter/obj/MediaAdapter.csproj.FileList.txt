@@ -1,0 +1,7 @@
+bin\Debug\DonOfDesign.ObjectAdapter.MediaAdapter.dll
+bin\Debug\DonOfDesign.ObjectAdapter.MediaAdapter.pdb
+bin\Debug\DonOfDesign.AdapterPattern.MediaLib.dll
+bin\Debug\DonOfDesign.AdapterPattern.RadioLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.ObjectAdapter.MediaAdapter.dll
+obj\Debug\DonOfDesign.ObjectAdapter.MediaAdapter.pdb

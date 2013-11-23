@@ -1,0 +1,5 @@
+bin\Debug\DonOfDesign.FactoryPattern.LogManager.dll
+bin\Debug\DonOfDesign.FactoryPattern.LogManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.FactoryPattern.LogManager.dll
+obj\Debug\DonOfDesign.FactoryPattern.LogManager.pdb

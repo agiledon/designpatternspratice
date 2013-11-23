@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch03\VisitorPattern\LogWriter\bin\Debug\DonOfDesign.VisitorPattern.LogWriter.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch03\VisitorPattern\LogWriter\bin\Debug\DonOfDesign.VisitorPattern.LogWriter.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch03\VisitorPattern\LogWriter\obj\Debug\ResolveAssemblyReference.cache
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch03\VisitorPattern\LogWriter\obj\Debug\DonOfDesign.VisitorPattern.LogWriter.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch03\VisitorPattern\LogWriter\obj\Debug\DonOfDesign.VisitorPattern.LogWriter.pdb

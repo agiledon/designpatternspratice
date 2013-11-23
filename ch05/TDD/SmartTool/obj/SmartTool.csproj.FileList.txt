@@ -1,0 +1,5 @@
+bin\Debug\DonOfDesign.TDD.SmartTool.dll
+bin\Debug\DonOfDesign.TDD.SmartTool.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.TDD.SmartTool.dll
+obj\Debug\DonOfDesign.TDD.SmartTool.pdb

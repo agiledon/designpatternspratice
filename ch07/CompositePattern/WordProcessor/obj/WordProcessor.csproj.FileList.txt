@@ -1,0 +1,5 @@
+bin\Debug\DonOfDesign.CompositePattern.WordProcessor.dll
+bin\Debug\DonOfDesign.CompositePattern.WordProcessor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.CompositePattern.WordProcessor.dll
+obj\Debug\DonOfDesign.CompositePattern.WordProcessor.pdb

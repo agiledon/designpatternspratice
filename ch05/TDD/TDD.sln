@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTool", "SmartTool\SmartTool.csproj", "{93D5413C-9EB5-4E4D-A483-E691AEFFF1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSmartTool", "TestSmartTool\TestSmartTool.csproj", "{5CCAB5B7-DB59-47E7-B7B7-9A5853BB8238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D5413C-9EB5-4E4D-A483-E691AEFFF1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D5413C-9EB5-4E4D-A483-E691AEFFF1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D5413C-9EB5-4E4D-A483-E691AEFFF1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D5413C-9EB5-4E4D-A483-E691AEFFF1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCAB5B7-DB59-47E7-B7B7-9A5853BB8238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCAB5B7-DB59-47E7-B7B7-9A5853BB8238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCAB5B7-DB59-47E7-B7B7-9A5853BB8238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCAB5B7-DB59-47E7-B7B7-9A5853BB8238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

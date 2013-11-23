@@ -1,0 +1,10 @@
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\obj\Debug\ControlsShowUI.exe
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\obj\Debug\ControlsShowUI.pdb
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\bin\Debug\ControlsShowUI.exe
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\bin\Debug\ControlsShowUI.pdb
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\bin\Debug\DonOfDesign.PracticeProxy.ControlsShow.dll
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\bin\Debug\DonOfDesign.PracticeProxy.ControlsShow.pdb
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\obj\Debug\ResolveAssemblyReference.cache
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\obj\Debug\DonOfDesign.PracticeProxy.ControlsShowUI.OperatorForm.resources
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\obj\Debug\DonOfDesign.PracticeProxy.ControlsShowUI.Properties.Resources.resources
+D:\20 Publish Material\软件设计精要与模式\代码\ch21\PracticeProxy\ControlsShowUI\obj\Debug\ControlsShowUI.csproj.GenerateResource.Cache

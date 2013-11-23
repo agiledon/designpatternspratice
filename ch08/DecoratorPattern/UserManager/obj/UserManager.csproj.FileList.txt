@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.DecoratorPattern.UserManager.Properties.Resources.resources
+obj\Debug\UserManager.csproj.GenerateResource.Cache
+bin\Debug\UserManager.exe
+bin\Debug\UserManager.pdb
+obj\Debug\UserManager.exe
+obj\Debug\UserManager.pdb
+bin\Debug\DonOfDesign.DecoratorPattern.UserDomain.dll
+bin\Debug\DonOfDesign.DecoratorPattern.UserDomain.pdb
+obj\Debug\DonOfDesign.DecoratorPattern.UserManager.LoginForm.resources

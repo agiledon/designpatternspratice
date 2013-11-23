@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAdapter", "MediaAdapter\MediaAdapter.csproj", "{9F79C6C7-0A82-4FBF-BB19-97F1A08840F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayer", "MediaPlayer\MediaPlayer.csproj", "{98479296-1A53-446C-80AA-AB7B9481D9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F79C6C7-0A82-4FBF-BB19-97F1A08840F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F79C6C7-0A82-4FBF-BB19-97F1A08840F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F79C6C7-0A82-4FBF-BB19-97F1A08840F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F79C6C7-0A82-4FBF-BB19-97F1A08840F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98479296-1A53-446C-80AA-AB7B9481D9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98479296-1A53-446C-80AA-AB7B9481D9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98479296-1A53-446C-80AA-AB7B9481D9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98479296-1A53-446C-80AA-AB7B9481D9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

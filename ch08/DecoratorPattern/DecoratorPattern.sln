@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManager", "UserManager\UserManager.csproj", "{A56C5418-3528-4A8D-9BA4-C51DA23FC5CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserDomain", "UserDomain\UserDomain.csproj", "{3B8BA001-BA94-40BB-AB17-AC3AFCD0C2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56C5418-3528-4A8D-9BA4-C51DA23FC5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56C5418-3528-4A8D-9BA4-C51DA23FC5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56C5418-3528-4A8D-9BA4-C51DA23FC5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56C5418-3528-4A8D-9BA4-C51DA23FC5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8BA001-BA94-40BB-AB17-AC3AFCD0C2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8BA001-BA94-40BB-AB17-AC3AFCD0C2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8BA001-BA94-40BB-AB17-AC3AFCD0C2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8BA001-BA94-40BB-AB17-AC3AFCD0C2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

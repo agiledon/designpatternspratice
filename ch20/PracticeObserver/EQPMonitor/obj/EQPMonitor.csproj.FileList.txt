@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.PracticeObserver.EQPMonitor.MainForm.resources
+obj\Debug\DonOfDesign.PracticeObserver.EQPMonitor.ManufactureForm.resources
+obj\Debug\DonOfDesign.PracticeObserver.EQPMonitor.OperatorForm.resources
+obj\Debug\DonOfDesign.PracticeObserver.EQPMonitor.Properties.Resources.resources
+obj\Debug\EQPMonitor.csproj.GenerateResource.Cache
+bin\Debug\EQPMonitor.exe
+bin\Debug\EQPMonitor.pdb
+obj\Debug\EQPMonitor.exe
+obj\Debug\EQPMonitor.pdb

@@ -1,0 +1,14 @@
+<XmlProducts>
+  <CNC>
+    <CalledNo>11</CalledNo>
+    <CallingNo>11</CallingNo>
+    <CallTime>8</CallTime>
+    <Splitter>;</Splitter>
+  </CNC>
+  <CUC>
+    <CallingNo>12</CallingNo>
+    <CalledNo>12</CalledNo>
+    <CallTime>8</CallTime>
+    <Splitter>,</Splitter>
+  </CUC>
+</XmlProducts>

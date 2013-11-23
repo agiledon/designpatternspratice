@@ -1,0 +1,5 @@
+bin\Debug\TaxManager.exe
+bin\Debug\TaxManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TaxManager.exe
+obj\Debug\TaxManager.pdb

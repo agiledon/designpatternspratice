@@ -1,0 +1,5 @@
+bin\Debug\LCDEquipment.exe
+bin\Debug\LCDEquipment.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LCDEquipment.exe
+obj\Debug\LCDEquipment.pdb

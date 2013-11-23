@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\MathApp.exe
+bin\Debug\MathApp.pdb
+obj\Debug\MathApp.exe
+obj\Debug\MathApp.pdb

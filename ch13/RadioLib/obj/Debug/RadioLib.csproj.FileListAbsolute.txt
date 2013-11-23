@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch13\RadioLib\bin\Debug\DonOfDesign.AdapterPattern.RadioLib.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch13\RadioLib\bin\Debug\DonOfDesign.AdapterPattern.RadioLib.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch13\RadioLib\obj\Debug\ResolveAssemblyReference.cache
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch13\RadioLib\obj\Debug\DonOfDesign.AdapterPattern.RadioLib.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch13\RadioLib\obj\Debug\DonOfDesign.AdapterPattern.RadioLib.pdb

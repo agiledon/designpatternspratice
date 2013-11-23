@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch10\StrategyPattern\TaxManager\obj\Debug\TaxManager.exe
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch10\StrategyPattern\TaxManager\obj\Debug\TaxManager.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch10\StrategyPattern\TaxManager\bin\Debug\TaxManager.exe
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch10\StrategyPattern\TaxManager\bin\Debug\TaxManager.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch10\StrategyPattern\TaxManager\obj\Debug\ResolveAssemblyReference.cache

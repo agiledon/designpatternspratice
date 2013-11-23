@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch17\PraticeBuilder\LCDEquipment\obj\Debug\LCDEquipment.exe
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch17\PraticeBuilder\LCDEquipment\obj\Debug\LCDEquipment.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch17\PraticeBuilder\LCDEquipment\bin\Debug\LCDEquipment.exe
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch17\PraticeBuilder\LCDEquipment\bin\Debug\LCDEquipment.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch17\PraticeBuilder\LCDEquipment\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+bin\Debug\MediaPlayer.exe
+bin\Debug\MediaPlayer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.OOP.MediaPlayer.Properties.Resources.resources
+obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+obj\Debug\MediaPlayer.exe
+obj\Debug\MediaPlayer.pdb
+bin\Debug\MediaPlayer.exe.config
+bin\Debug\DonOfDesign.OOP.MediaLib.dll
+bin\Debug\DonOfDesign.OOP.MediaLib.pdb
+obj\Debug\DonOfDesign.OOP.MediaPlayer.MainForm.resources

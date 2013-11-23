@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+.\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.Test.dll.config
+.\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.Test.dll
+.\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.Test.pdb
+.\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.dll
+.\bin\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.pdb
+obj\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.Test.dll
+obj\Debug\DonOfDesign.PracticePatterns.MultiCdrRecords.Test.pdb

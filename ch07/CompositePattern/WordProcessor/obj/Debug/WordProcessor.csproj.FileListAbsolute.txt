@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch07\CompositePattern\WordProcessor\obj\Debug\ResolveAssemblyReference.cache
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch07\CompositePattern\WordProcessor\obj\Debug\DonOfDesign.CompositePattern.WordProcessor.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch07\CompositePattern\WordProcessor\obj\Debug\DonOfDesign.CompositePattern.WordProcessor.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch07\CompositePattern\WordProcessor\bin\Debug\DonOfDesign.CompositePattern.WordProcessor.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch07\CompositePattern\WordProcessor\bin\Debug\DonOfDesign.CompositePattern.WordProcessor.pdb

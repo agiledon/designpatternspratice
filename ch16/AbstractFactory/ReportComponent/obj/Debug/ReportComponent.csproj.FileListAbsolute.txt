@@ -1,0 +1,5 @@
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportComponent\bin\Debug\DonOfDesign.AbstractFactory.ReportComponent.dll
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportComponent\bin\Debug\DonOfDesign.AbstractFactory.ReportComponent.pdb
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportComponent\obj\Debug\DonOfDesign.AbstractFactory.ReportComponent.dll
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportComponent\obj\Debug\DonOfDesign.AbstractFactory.ReportComponent.pdb

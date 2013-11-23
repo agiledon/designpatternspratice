@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch12\OOP\MediaLib\bin\Debug\DonOfDesign.OOP.MediaLib.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch12\OOP\MediaLib\bin\Debug\DonOfDesign.OOP.MediaLib.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch12\OOP\MediaLib\obj\Debug\ResolveAssemblyReference.cache
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch12\OOP\MediaLib\obj\Debug\DonOfDesign.OOP.MediaLib.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch12\OOP\MediaLib\obj\Debug\DonOfDesign.OOP.MediaLib.pdb

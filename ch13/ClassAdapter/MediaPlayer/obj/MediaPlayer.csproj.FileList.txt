@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.AdapterPattern.MediaPlayer.MainForm.resources
+obj\Debug\DonOfDesign.AdapterPattern.MediaPlayer.Properties.Resources.resources
+obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+bin\Debug\MediaPlayer.exe
+bin\Debug\MediaPlayer.pdb
+bin\Debug\DonOfDesign.AdapterPattern.MediaLib.dll
+bin\Debug\DonOfDesign.AdapterPattern.RadioLib.dll
+bin\Debug\DonOfDesign.ClassAdapter.MediaAdapter.dll
+bin\Debug\DonOfDesign.ClassAdapter.MediaAdapter.pdb
+obj\Debug\MediaPlayer.exe
+obj\Debug\MediaPlayer.pdb

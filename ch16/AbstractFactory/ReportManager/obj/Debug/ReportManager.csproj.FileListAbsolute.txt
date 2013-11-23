@@ -1,0 +1,7 @@
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\obj\Debug\ReportManager.exe
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\obj\Debug\ReportManager.pdb
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\bin\Debug\ReportManager.exe
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\bin\Debug\ReportManager.pdb
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\bin\Debug\DonOfDesign.AbstractFactory.ReportComponent.dll
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\bin\Debug\DonOfDesign.AbstractFactory.ReportComponent.pdb
+E:\90 Work Documents\90 课件讲义\设计模式\chapter 03\课后练习\AbstractFactory\ReportManager\obj\Debug\ResolveAssemblyReference.cache

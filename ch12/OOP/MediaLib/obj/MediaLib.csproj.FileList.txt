@@ -1,0 +1,5 @@
+bin\Debug\DonOfDesign.OOP.MediaLib.dll
+bin\Debug\DonOfDesign.OOP.MediaLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.OOP.MediaLib.dll
+obj\Debug\DonOfDesign.OOP.MediaLib.pdb

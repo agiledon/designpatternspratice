@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ListApp.exe
+bin\Debug\ListApp.pdb
+bin\Debug\DonOfDesign.IteratorPattern.ListCollection.dll
+bin\Debug\DonOfDesign.IteratorPattern.ListCollection.pdb
+obj\Debug\ListApp.exe
+obj\Debug\ListApp.pdb

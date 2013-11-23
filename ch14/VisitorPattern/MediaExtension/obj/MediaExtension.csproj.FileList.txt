@@ -1,0 +1,7 @@
+bin\Debug\DonOfDesign.VisitorPattern.MediaExtension.dll
+bin\Debug\DonOfDesign.VisitorPattern.MediaExtension.pdb
+bin\Debug\DonOfDesign.VisitorPattern.MediaLib.dll
+bin\Debug\DonOfDesign.VisitorPattern.MediaLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DonOfDesign.VisitorPattern.MediaExtension.dll
+obj\Debug\DonOfDesign.VisitorPattern.MediaExtension.pdb

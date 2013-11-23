@@ -1,0 +1,5 @@
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch14\AcyclicVisitorPattern\MediaLib\bin\Debug\DonOfDesign.AcynlicVisitorPattern.MediaLib.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch14\AcyclicVisitorPattern\MediaLib\bin\Debug\DonOfDesign.AcynlicVisitorPattern.MediaLib.pdb
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch14\AcyclicVisitorPattern\MediaLib\obj\Debug\ResolveAssemblyReference.cache
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch14\AcyclicVisitorPattern\MediaLib\obj\Debug\DonOfDesign.AcynlicVisitorPattern.MediaLib.dll
+E:\50 My Books\10 著作\软件设计精要与模式第二版\代码\ch14\AcyclicVisitorPattern\MediaLib\obj\Debug\DonOfDesign.AcynlicVisitorPattern.MediaLib.pdb
